@@ -1,0 +1,7 @@
+﻿stock_code,stock_name,industry,total_return,volatility,max_drawdown,risk_level
+AAPL,Apple,Technology,-0.519,0.0201,-0.5988,Medium
+MSFT,Microsoft,Technology,-0.0219,0.0215,-0.3914,Medium
+NVDA,NVIDIA,Technology,0.0082,0.02,-0.2719,Medium
+QQQ,NASDAQ ETF,ETF,-0.1642,0.0203,-0.4404,Medium
+SPY,S&P500 ETF,ETF,-0.2447,0.0193,-0.3253,Low
+TSLA,Tesla,Automobile,0.4471,0.0206,-0.1914,Medium
